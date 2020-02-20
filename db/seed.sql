@@ -1,0 +1,6 @@
+-- CREATE TABLE products(
+--     product_id INT PRIMARY KEY,
+--     product_url TEXT,
+--     product_name VARCHAR(40),
+--     prodcut_price INT
+-- )
